@@ -13,7 +13,7 @@ This repository holds my Digital Literacy Portfolio, made for the CSE0001 course
 digital literacy/
 ├── README.md
 ├── report/
-│   └── Digital litracy Project_Report.pdf
+│   └── Digital litracy Project_Report.ayush.pdf
 ├── task-1/
 │   ├── Infograph.png
 ├── task-2-portfolio/
